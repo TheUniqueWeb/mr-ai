@@ -1,0 +1,7 @@
+{
+  "name": "ProfX - Your AI Companion",
+  "description": "A deeply empathetic, wise, and supportive AI friend fluent in English and Bengali, designed for meaningful, soul-searching conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
